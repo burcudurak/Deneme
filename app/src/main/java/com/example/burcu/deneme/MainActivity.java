@@ -73,7 +73,7 @@ public class MainActivity extends FragmentActivity {
                     TextView usernameTxt = (TextView) findViewById(R.id.username);
                     nameTxt.setText(user.getName());
                     usernameTxt.setText(user.getId());
-                    //denemeeesasaassasasasa
+                    //denemeeesasaassasasasaaa
                   //  Log.d("email",user.asMap().get("email").toString());
 
 
